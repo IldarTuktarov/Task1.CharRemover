@@ -1,0 +1,51 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+h3 {
+    font-weight: lighter;
+    margin-left: 20px;
+}
+
+.wrap {
+    width: 406px;
+    height: 282px;
+}
+
+form {
+    height: 100%;
+    background: #0690cf;
+    border: 2px solid #0075b2;
+}
+
+hr {
+    margin-top: 4px;
+    border: 1px solid white;
+}
+
+.line {
+    margin: 20px 0 0 20px;
+}
+
+.line, label, input {
+    display: block;
+}
+
+.result-button {
+    margin-top: 35px;
+}
+
+input[type="text"] {
+    width: 81%;
+}
+
+.submit-btn {
+    width: 82px;
+    height: 35px;
+    background: #ffdf7f;
+    border: 0;
+    cursor: pointer;
+}
